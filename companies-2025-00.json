@@ -209,13 +209,6 @@
         "name": "Framework.tools",
         "website_url": "https://framework.tools"
     },
-    "https://api.github.com/users/jsr-io": {
-        "github_url": "https://github.com/jsr-io",
-        "jobs_email": null,
-        "jobs_url": null,
-        "name": null,
-        "website_url": "https://jsr.io"
-    },
     "https://api.github.com/users/pydantic": {
         "github_url": "https://github.com/pydantic",
         "jobs_email": null,
