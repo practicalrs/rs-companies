@@ -232,7 +232,7 @@
     },
     "https://api.github.com/users/oraichain": {
         "github_url": "https://github.com/oraichain",
-        "jobs_email": "support@orai.io",
+        "jobs_email": "hr@orai.io",
         "jobs_url": "https://oraichain.notion.site/Oraichain-Labs-Careers-b14d9467f9604b3d9cf9a3282730cec5",
         "name": "Oraichain",
         "website_url": "https://orai.io"
@@ -253,7 +253,7 @@
     },
     "https://api.github.com/users/NLnetLabs": {
         "github_url": "https://github.com/NLnetLabs",
-        "jobs_email": "labs@nlnetlabs.nl",
+        "jobs_email": "openings@nlnetlabs.nl",
         "jobs_url": "https://nlnetlabs.nl/careers/culture/",
         "name": "NLnet Labs",
         "website_url": "https://nlnetlabs.nl"
@@ -295,7 +295,7 @@
     },
     "https://api.github.com/users/HQSquantumsimulations": {
         "github_url": "https://github.com/HQSquantumsimulations",
-        "jobs_email": "info@quantumsimulations.de",
+        "jobs_email": "jobs@quantumsimulations.de",
         "jobs_url": "https://quantumsimulations.de/jobs",
         "name": "HQS Quantum Simulations",
         "website_url": "https://quantumsimulations.de/"
@@ -337,7 +337,7 @@
     },
     "https://api.github.com/users/cryptape": {
         "github_url": "https://github.com/cryptape",
-        "jobs_email": "contact@cryptape.com",
+        "jobs_email": "join@cryptape.com",
         "jobs_url": "https://cryptape.com/#/joinUs",
         "name": "Cryptape",
         "website_url": "https://www.cryptape.com/"
@@ -393,7 +393,7 @@
     },
     "https://api.github.com/users/influxdata": {
         "github_url": "https://github.com/influxdata",
-        "jobs_email": "contact@influxdb.com",
+        "jobs_email": "jobs@influxdata.com",
         "jobs_url": "https://www.influxdata.com/careers/",
         "name": "InfluxData",
         "website_url": "https://influxdata.com"
@@ -442,7 +442,7 @@
     },
     "https://api.github.com/users/stalwartlabs": {
         "github_url": "https://github.com/stalwartlabs",
-        "jobs_email": "hello@stalw.art",
+        "jobs_email": "jobs@stalw.art",
         "jobs_url": "https://stalw.art/jobs/",
         "name": "Stalwart Labs",
         "website_url": "https://stalw.art"
@@ -456,7 +456,7 @@
     },
     "https://api.github.com/users/SoftwareHeritage": {
         "github_url": "https://github.com/SoftwareHeritage",
-        "jobs_email": "info@softwareheritage.org",
+        "jobs_email": "hiring@softwareheritage.org",
         "jobs_url": "https://www.softwareheritage.org/jobs/",
         "name": "Software Heritage",
         "website_url": "https://www.softwareheritage.org"
@@ -477,7 +477,7 @@
     },
     "https://api.github.com/users/paradedb": {
         "github_url": "https://github.com/paradedb",
-        "jobs_email": "hello@paradedb.com",
+        "jobs_email": "founders@paradedb.com",
         "jobs_url": "https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00",
         "name": "ParadeDB",
         "website_url": "https://paradedb.com"
@@ -554,7 +554,7 @@
     },
     "https://api.github.com/users/layer5io": {
         "github_url": "https://github.com/layer5io",
-        "jobs_email": null,
+        "jobs_email": "jobs@layer5.io",
         "jobs_url": "https://layer5.io/careers",
         "name": "Layer5",
         "website_url": "https://layer5.io"
@@ -568,7 +568,7 @@
     },
     "https://api.github.com/users/mongrov": {
         "github_url": "https://github.com/mongrov",
-        "jobs_email": null,
+        "jobs_email": "hr@mongrov.com",
         "jobs_url": "https://mongrov.com/careers",
         "name": "Mongrov, Inc",
         "website_url": "https://mongrov.com"
@@ -876,7 +876,7 @@
     },
     "https://api.github.com/users/SubconsciousCompute": {
         "github_url": "https://github.com/SubconsciousCompute",
-        "jobs_email": "devs@subcom.tech",
+        "jobs_email": "hr@subcom.tech",
         "jobs_url": "https://www.subcom.tech/jobs",
         "name": "Subconscious Compute",
         "website_url": "https://subcom.tech"

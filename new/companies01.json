@@ -1,4 +1,18 @@
 {
+    "https://api.github.com/users/codeanonorg": {
+        "github_url": "https://github.com/codeanonorg",
+        "jobs_email": null,
+        "jobs_url": null,
+        "name": null,
+        "website_url": "https://codeanon.org/"
+    },
+    "https://api.github.com/users/APLanguage": {
+        "github_url": "https://github.com/APLanguage",
+        "jobs_email": null,
+        "jobs_url": null,
+        "name": null,
+        "website_url": "https://aplang.canwehave.it"
+    },
     "https://api.github.com/users/input-output-hk": {
         "github_url": "https://github.com/input-output-hk",
         "jobs_email": null,
