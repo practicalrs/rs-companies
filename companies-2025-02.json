@@ -309,7 +309,7 @@
     },
     "https://api.github.com/users/scrtlabs": {
         "github_url": "https://github.com/scrtlabs",
-        "jobs_email": "info@scrtlabs.com",
+        "jobs_email": " ",
         "jobs_url": null,
         "name": "SCRT Labs",
         "website_url": "https://scrtlabs.com"
@@ -386,7 +386,7 @@
     },
     "https://api.github.com/users/n0-computer": {
         "github_url": "https://github.com/n0-computer",
-        "jobs_email": null,
+        "jobs_email": "hello@n0.computer",
         "jobs_url": "https://n0.computer/contact/",
         "name": "number zero",
         "website_url": "https://n0.computer"
@@ -624,9 +624,9 @@
     },
     "https://api.github.com/users/animuslabs": {
         "github_url": "https://github.com/animuslabs",
-        "jobs_email": null,
+        "jobs_email": "contact@animus.is",
         "jobs_url": null,
-        "name": null,
+        "name": "Animus Labs Ltd",
         "website_url": "www.animus.is"
     },
     "https://api.github.com/users/plutomi": {
@@ -764,7 +764,7 @@
     },
     "https://api.github.com/users/estuary": {
         "github_url": "https://github.com/estuary",
-        "jobs_email": null,
+        "jobs_email": "careers@estuary.dev",
         "jobs_url": "https://estuary.dev/about/#careers",
         "name": "Estuary Technologies, Inc",
         "website_url": "https://estuary.dev"
